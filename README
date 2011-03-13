@@ -29,6 +29,43 @@ Punktowanie
 
 Po kazdym skasowanym wierszu przez gracza dodawane jest 10 punktów do punktacji
 
-Figury tetronimo
+Czesc II
+
+Zaimplementuj figury tetromino zamiast pojedynczych blok?w, zaimplementuj dla nich rotacje w lewo i w prawo
+   I_SHAPE
+    ....\n
+    IIII\n
+    ....\n
+	
+    J_SHAPE
+    ..J\n
+    JJJ\n
+    ...\n
+	
+    L_SHAPE
+    L..\n
+    LLL\n
+    ...\n
+	
+   O_SHAPE
+   .OO\n
+   .OO\n
+   ...\n
+   
+   S_SHAPE
+    ...\n
+    .SS\n
+    SS.\n
+	
+   T_SHAPE
+   .T.\n
+   TTT\n
+   ...\n
+   
+   Z_SHAPE
+   ...\n
+   ZZ.\n
+   .ZZ\n
+
 
 
