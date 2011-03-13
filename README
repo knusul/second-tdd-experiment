@@ -1,0 +1,34 @@
+Specyfikacja wymagan: 
+
+
+Kiedy dolny wiersz jest wypelniony blokami
+
+* dolny wiersz jest kasowany a bloki znajdujace sie wyzej spadaja w dól
+
+    ...\n
+    .X.\n
+    XXX\n
+	
+    ...\n
+    ...\n
+    .X.\n
+
+
+Podwójny blok 
+
+Do gry dodaj podwójne bloki poziome oraz pionowe. 
+
+    XX.\n    .X.\n    .XX\n
+    ...\n    .X.\n    ...\n
+    ...\n    ...\n    ...\n
+
+podwójne bloki oraz pojedynczy blok pojawiaja sie w losowej kolejnosci
+
+
+Punktowanie
+
+Po kazdym skasowanym wierszu przez gracza dodawane jest 10 punktów do punktacji
+
+Figury tetronimo
+
+
